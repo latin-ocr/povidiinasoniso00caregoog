@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasoniso00caregoog_0007.png"; bbox 0 0 1867 2942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 544 618 1306 1270">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 544 618 1306 1270">
+     <span class='ocr_line' id='line_1_1' title="bbox 544 618 1306 1270; baseline 0 1672"><span class='ocrx_word' id='word_1_1' title='bbox 544 618 1306 1270; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 487 1457 1604 1793">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 487 1457 1604 1793">
+     <span class='ocr_line' id='line_1_2' title="bbox 487 1457 1604 1572; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 487 1547 510 1572; x_wconf 91' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 559 1491 926 1572; x_wconf 86' lang='lat' dir='ltr'>ov1D11</span> <span class='ocrx_word' id='word_1_4' title='bbox 974 1457 1474 1572; x_wconf 73' lang='lat' dir='ltr'><strong>N&#39;Asoms·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1537 1540 1542 1543; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 1599 1496 1604 1504; x_wconf 87' lang='lat'>·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 735 1648 1406 1793; baseline -0.001 0"><span class='ocrx_word' id='word_1_7' title='bbox 735 1716 1128 1793; x_wconf 80' lang='lat' dir='ltr'><strong>OPERA.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1369 1648 1406 1686; x_wconf 55' lang='lat'><strong>⁵</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 812 1914 1054 1958">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 812 1914 1054 1958">
+     <span class='ocr_line' id='line_1_4' title="bbox 812 1914 1054 1958; baseline -0.004 -11"><span class='ocrx_word' id='word_1_9' title='bbox 812 1914 1054 1958; x_wconf 59' lang='lat'><strong>...⁴1-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 751 2094 1066 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 751 2094 1066 2188">
+     <span class='ocr_line' id='line_1_5' title="bbox 795 2094 1066 2138; baseline 0.007 -2"><span class='ocrx_word' id='word_1_10' title='bbox 795 2094 986 2138; x_wconf 65' lang='lat' dir='ltr'>‘tonus</span> <span class='ocrx_word' id='word_1_11' title='bbox 1021 2096 1066 2138; x_wconf 84' lang='lat'><strong>1.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 751 2164 762 2188; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 751 2164 762 2188; x_wconf 78' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
